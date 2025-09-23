@@ -3,7 +3,7 @@
 # About Me
 
 ```cpp
-string name = "Amir";
+string name = "Amir Shahrani";
 int age = 20;
 string langs[] = {"English", "Malay"};
 string university = "Universiti Teknologi PETRONAS";
@@ -35,7 +35,7 @@ string major = "Computer Science";
 <details>
     <summary><h1>My Github Stats</h1></summary>
     <figure>
-        <img src="https://github-readme-stats.vercel.app/api?username=itsmeevil&hide_border=true&theme=transparent" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeevil&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api?username=amirshahrani&hide_border=true&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirshahrani&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
     </figure>
 </details>
