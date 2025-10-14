@@ -10,7 +10,7 @@ string university = "Universiti Teknologi PETRONAS";
 string major = "Computer Science";
 ```
 
-# My Skils
+# My Skills
 
 ## Operating Systems
 
@@ -22,7 +22,7 @@ string major = "Computer Science";
 
 ## Web Technologies
 
-![Web Technologies](https://go-skill-icons.vercel.app/api/icons?i=caddy,cloudflare,digitalocean,flask,nginx,tailscale,tailwindcss&perline=7)
+![Web Technologies](https://go-skill-icons.vercel.app/api/icons?i=aws,amplify,apigateway,caddy,cloudflare,digitalocean,flask,heroku,lambda,nginx,oracle,s3,tailscale,tailwindcss&perline=7)
 
 ## Development Tools
 
