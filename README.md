@@ -18,15 +18,23 @@ string major = "Computer Science";
 
 ## Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,cpp,css,html,java,javascript,json,lua,markdown,python,r,sass,solidity,visualbasic&perline=7)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,cpp,css,html,java,javascript,json,lua,markdown,matlab,python,r,sass,solidity,visualbasic&perline=6)
 
-## Web Technologies
+## Frameworks
 
-![Web Technologies](https://go-skill-icons.vercel.app/api/icons?i=aws,amplify,apigateway,caddy,cloudflare,digitalocean,flask,heroku,lambda,nginx,oracle,s3,tailscale,tailwindcss&perline=7)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,nextjs,react,tailwindcss&perline=5)
+
+## Cloud & Hosting
+
+![Cloud & Hosting](https://go-skill-icons.vercel.app/api/icons?i=aws,amplify,apigateway,caddy,cloudflare,digitalocean,gcp,heroku,lambda,netlify,nginx,oracle,railway,s3,tailscale,vercel,workers&perline=6)
+
+## AI & Data
+
+![AI & Data](https://go-skill-icons.vercel.app/api/icons?i=googlecolab,n8n,ollama,pinecone&perline=7)
 
 ## Development Tools
 
-![Development Tools](https://go-skill-icons.vercel.app/api/icons?i=brave,git,github,googlecolab,mermaid,netlify,prettier,terminal,vscode,visualstudio&perline=7)
+![Development Tools](https://go-skill-icons.vercel.app/api/icons?i=brave,git,github,mermaid,prettier,terminal,vscode,visualstudio,wireshark&perline=6)
 
 ## Design & Content Tools
 
