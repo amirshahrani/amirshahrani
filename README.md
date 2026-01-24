@@ -4,7 +4,7 @@
 
 ```cpp
 string name = "Amir Shahrani";
-int age = 20;
+int age = 21;
 string langs[] = {"English", "Malay"};
 string university = "Universiti Teknologi PETRONAS";
 string major = "Computer Science";
